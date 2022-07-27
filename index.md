@@ -1,12 +1,11 @@
-## Welcome to GitHub Pages
+## Welcome as páginas de make
 
 You can use the [editor on GitHub](https://github.com/manuzinha043/manuzinhas-das-make/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Caso tenha alguma sugestão dẽ suas opnião [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site melhor
 
 ### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+site foi criado para suas melhores experiencias
 
 ```markdown
 Syntax highlighted code block
