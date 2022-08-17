@@ -27,7 +27,7 @@ site foi criado para suas melhores experiencias e suas esteticas
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](https://static1.tudosobremake.com.br/articles/6/92/26/@/245611--article_media_new_3_1-1.jpg) and ![imagem]https://i.pinimg.com/564x/13/37/1a/13371a24812b29e4513683146d0a9a80.jpg()
+[Link](https://static1.tudosobremake.com.br/articles/6/92/26/@/245611--article_media_new_3_1-1.jpg) and [imagem] (https://pt.quizur.com/quiz/escolha-makes-diferentes-AHFQ )
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
